@@ -1,0 +1,17 @@
+button{
+    background: #C1F7D5;
+    padding:1%;
+    border-radius: 100px;
+    justify-content: flex-start;
+    font: Bold 13px Helvetica;
+    align-self: center;
+    color: #354463;
+}
+.func-buttons{
+    display:flex;
+    justify-content: space-around;
+    margin:5%;
+}
+.graph-container{
+    border:2px solid black;
+}
